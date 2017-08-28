@@ -1,0 +1,19 @@
+body{
+	font-family: "Lucida Console", Monospace;
+	background-image: url("bookshelf.jpg");
+}
+
+p{
+	font-size: 150%;
+	color:rgb(255,0,255);
+	text-align:right;
+}
+
+q{
+	color:rgb(255,0,255);
+	font-size: 110%;
+	text-align: center;
+}
+h1{
+	text-align:center;
+}

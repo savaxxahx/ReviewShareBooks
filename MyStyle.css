@@ -1,19 +1,29 @@
 body{
-	font-family: "Lucida Console", Monospace;
+	font-family: "Verdana", Sans-Serif;
 	background-image: url("bookshelf.jpg");
 }
 
 p{
 	font-size: 150%;
-	color:rgb(255,0,255);
-	text-align:right;
+	color:rgb(146,31,90);
+	text-align:left;
 }
 
 q{
-	color:rgb(255,0,255);
-	font-size: 110%;
+	color:rgb(146,31,90);
+	font-size: 130%;
 	text-align: center;
 }
 h1{
 	text-align:center;
+}
+
+img{
+	display: block;
+	margin:auto;
+	width:20%;
+	
+	padding: 25px;
+	border: 25px  solid black;
+	
 }
